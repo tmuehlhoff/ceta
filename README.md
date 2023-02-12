@@ -1,9 +1,10 @@
-Das Protokoll der Gamma Heizungssteuerung
+Protocol of the RS485 interface EBV Ceta 104
 ================
 
-Neuigkeiten, Protokoll-Dokumentation und Mitmach-Seite im Wiki -> https://github.com/bogeyman/gamma/wiki
+References:
+Original page, aimes at the Gamma Variant: -> https://github.com/bogeyman/gamma/wiki
+Reference: https://github.com/bogeyman/gallipoli
 
-Langfristiges Ziel waere es, das bisher nicht dokumentierte Bus-Protokoll zu verstehen und weiter Interaktion mit der Heizungsreglung zu ermoeglichen. Erkenntnisse über andere verwandte Protokolle sind durchaus auch interessant.
+How to collect logs: https://github.com/bogeyman/gamma/wiki/Mitmachen
 
-Eine Referenz-Implementierung gibt es unter https://github.com/bogeyman/gallipoli
-
+Actual Wiki for the Ceta: https://github.com/tmuehlhoff/ceta/wiki/Protocol
